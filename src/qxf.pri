@@ -1,0 +1,3 @@
+INCLUDEPATH += $$PWD
+DESTDIR = $$PWD/../lib
+DLLDESTDIR = $$PWD/../dist

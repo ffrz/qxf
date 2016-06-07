@@ -1,0 +1,6 @@
+*.pro.user
+bin/
+build/
+dist/
+lib/
+
